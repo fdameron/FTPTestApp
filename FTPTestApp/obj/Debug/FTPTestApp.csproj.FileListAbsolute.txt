@@ -1,0 +1,12 @@
+C:\github\FTPTestApp\FTPTestApp\bin\Debug\FTPTestApp.exe.config
+C:\github\FTPTestApp\FTPTestApp\bin\Debug\FTPTestApp.exe
+C:\github\FTPTestApp\FTPTestApp\bin\Debug\FTPTestApp.pdb
+C:\github\FTPTestApp\FTPTestApp\obj\Debug\FTPTestApp.csproj.AssemblyReference.cache
+C:\github\FTPTestApp\FTPTestApp\obj\Debug\FTPTestApp.csproj.CoreCompileInputs.cache
+C:\github\FTPTestApp\FTPTestApp\obj\Debug\FTPTestApp.exe
+C:\github\FTPTestApp\FTPTestApp\obj\Debug\FTPTestApp.pdb
+C:\github\FTPTestApp\FTPTestApp\bin\Debug\KellermanSoftware.NET-SFTP-Library.dll
+C:\github\FTPTestApp\FTPTestApp\bin\Debug\KellermanSoftware.NET-SFTP-Library.xml
+C:\github\FTPTestApp\FTPTestApp\obj\Debug\FTPTestApp.csproj.Up2Date
+C:\github\FTPTestApp\FTPTestApp\bin\Debug\AlexPilotti.FTPS.Client.dll
+C:\github\FTPTestApp\FTPTestApp\bin\Debug\AlexPilotti.FTPS.Client.xml
